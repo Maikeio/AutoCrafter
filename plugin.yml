@@ -1,0 +1,7 @@
+main: net.ddns.maikeio.autocrafter.Main
+name: AutoCrafter
+version: 1.0
+description: Plugin for an autocrafter
+api-version: 1.16
+author: Maikeio
+website: www.maikeio.ddns.net
