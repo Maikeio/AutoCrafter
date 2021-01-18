@@ -9,4 +9,5 @@ After that, if enough items come into the dropper through a hopper and there are
 Your recipe.
 
 Autocrafter upgrade recipe: 
+
 <img margin="auto" align="center" src="https://cdn.discordapp.com/attachments/626827795875758083/798461893697339412/Bildschirmfoto_von_2021-01-12_08-59-53.png" />
